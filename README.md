@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Vok1no)](https://git.io/typing-svg)</br >
-
+<br>
+<a href="https://vk.com/vocino_vladimir"><img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"></a>
+</br>
 
 
 ⚡Работаю </br>
